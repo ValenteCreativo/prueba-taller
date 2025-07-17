@@ -1,7 +1,7 @@
 export default function ContactPage() {
     return (
       <main className="min-h-screen px-6 py-20 sm:px-24 text-[var(--foreground)]">
-        <h1 className="text-4xl sm:text-5xl font-bold mb-8">Let's get in touch 👋</h1>
+        <h1 className="text-4xl sm:text-5xl font-bold mb-8">Let&apos;s get in touch 👋</h1>
   
         <p className="text-lg max-w-xl mb-12 text-[var(--muted)]">
           Whether you have an idea, a collaboration, or just want to say hello — feel free to reach
